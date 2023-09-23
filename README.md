@@ -1,0 +1,5 @@
+- 👋 Hi, I’m JA3OLI
+- 👀 I’m interested in Karate cosmos,
+-  Terminal physics programming
+- 🌱 I’m currently learning JAVA programming language
+-  I am 15 years old
